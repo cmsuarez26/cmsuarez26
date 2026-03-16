@@ -51,22 +51,7 @@ Actualmente estoy desarrollando habilidades en **programación web, bases de dat
 <img src="https://skillicons.dev/icons?i=git,vscode"/>
 </p>
 
----
 
-# 🎯 Objetivo profesional
-
-Seguir desarrollando proyectos que integren **tecnología, datos y negocios digitales**, aplicando buenas prácticas de desarrollo de software y aprendiendo continuamente nuevas herramientas.
-
----
-
-# 📌 Próximos proyectos
-
-- 🌐 Aplicaciones web  
-- 🗄️ Sistemas con bases de datos  
-- ⚙️ Servicios web  
-- 📊 Proyectos de analítica de datos  
-
----
 
 <p align="center">
 Perfil en crecimiento 🚀
